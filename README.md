@@ -6,7 +6,7 @@ When employees go out to lunch, they spend on average, 90 minutes away from the 
 
 **Scope**
 
-FoodForTech (FFT) is the web and mobile application software that will enable technology companies to provide an access to food that will enable their employees to cut down on time spent traveling (e.g., cycling, scooter, etc.) to have a meal. The purpose of this document is to showcase a software system that would allow employees who utilize cafeteria services to cut down on distance traveled for meals and also enhance the likelihood that they will receive their desired choice of food on time.
+The purpose of this document is to showcase a meal ordering app that would allow employees to utilize cafeteria services to cut down on distance traveled for meals and also enhance the likelihood of them receiving their desired choice of food on time.
 
 **Cafeteria Ordering System:**
 
