@@ -6,7 +6,7 @@ When employees go out to lunch, they spend on average, 90 minutes away from the 
 
 **Scope**
 
-The purpose of this document is to showcase a meal ordering app that would allow employees to utilize cafeteria services to cut down on distance traveled for meals and also enhance the likelihood of them receiving their desired choice of food on time.
+The purpose of this document is to showcase a meal ordering app called FoodForTech (FFT), this web and mobile application will enable employees to utilize their organizations cafeteria services or external restaurants for food delivery so that they can cut-down on distances traveled for meals and also enhance the likelihood of them receiving their desired choice of food on time.
 
 **Cafeteria Ordering System:**
 
