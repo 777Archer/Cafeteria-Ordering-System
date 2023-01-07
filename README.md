@@ -1,10 +1,14 @@
 # Cafeteria-Ordering-System
 
+**Introduction**
+
 When employees go out to lunch, they spend on average, 90 minutes away from the office. Some employees call the cafeteria ahead of time to request a meal that will be ready for them to pick up. Most days, employees do not often receive the choices they desire since the cafeteria runs out of a specific foods.
 
-The purpose of this document is to showcase a software system that would allow employees who utilize cafeteria services to cut down on distance traveled for meals and also enhance the likelihood that they will receive their desired choice of food on time.
+**Scope**
 
-**Cafeteria Ordering System Info:**
+FoodForTech (FFT) is the web and mobile application software that will enable technology companies to provide an access to food that will enable their employees to cut down on time spent traveling (e.g., cycling, scooter, etc.) to have a meal. The purpose of this document is to showcase a software system that would allow employees who utilize cafeteria services to cut down on distance traveled for meals and also enhance the likelihood that they will receive their desired choice of food on time.
+
+**Cafeteria Ordering System:**
 
 Many employees have requested a system that would permit a cafeteria user to order meals online, to be picked up at the cafeteria or delivered to a company location at a specified time and date.
 
