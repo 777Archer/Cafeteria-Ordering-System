@@ -14,15 +14,15 @@ Many employees have requested a system that would permit a cafeteria user to ord
 
 ![image](https://lh4.googleusercontent.com/RYAQIIYPli1jC9aKJe8BW8eex2Mvo9CXjI3xm9Wlq3l7MVs_IF-2-c90PXqXcVMKp3MLUdgR7dDjyqHMAbRo693cGbJkog2SLXW9GUXs2xaolhPEmPjq35Mxq_WigcjcIVAOer7H)
 
-**What will FTT do?** 
-*	FTT will utilize third-party services such as DoorDash or UberEats to deliver food picked up from the company’s cafeteria to the intended FTT end users' workstation
-*	If the end user’s workstation is in an access restricted location, based on the end user’s instruction, FTT will relay the message and instruct the third-party service DoorDash or UberEats delivery person to await the end user at the specified food drop-off location
+**What will FFT do?** 
+*	FFT will utilize third-party services such as DoorDash or UberEats to deliver food picked up from the company’s cafeteria to the intended FFT end users' workstation
+*	If the end user’s workstation is in an access restricted location, based on the end user’s instruction, FFT will relay the message and instruct the third-party service DoorDash or UberEats delivery person to await the end user at the specified food drop-off location
 
-**What will FTT not do?** 
-*	FTT does not prepare the meals or beverages being purchased 
-*	FTT does not regulate the associated technology company’s timesheet or lunch break clock-out time
-*	FTT makes no promises to keep employees from skipping their lunch breaks
-*	FTT does not tip third-party food deliverers nor does it instruct its end users to do so. The decision is at the end user’s discretion
+**What will FFT not do?** 
+*	FFT does not prepare the meals or beverages being purchased 
+*	FFT does not regulate the associated technology company’s timesheet or lunch break clock-out time
+*	FFT makes no promises to keep employees from skipping their lunch breaks
+*	FFT does not tip third-party food deliverers nor does it instruct its end users to do so. The decision is at the end user’s discretion
 
 **Key contents in the document:**
 
@@ -40,4 +40,4 @@ Many employees have requested a system that would permit a cafeteria user to ord
 
 **Conclusion:**
 
-FoodForTech (FFT) is the web and mobile application software that will enable technology companies to provide an access to food that will enable their employees to cut down on time spent traveling (e.g., cycling, scooter, etc.) to have a meal. FFT will provide customers (end users) the ability to order the same food served in the company's cafeteria by way of the FTT app installed on their phone or by visiting the website foodfortech.com on their computer or mobile phone's web browser. FTT will permit end users to access the cafeteria menu, make food selections, and beverage selections, submit credit or debit card payments, and, lastly, the option of dining in or ordering for takeout.
+FoodForTech (FFT) is the web and mobile application software that will enable technology companies to provide an access to food that will enable their employees to cut down on time spent traveling (e.g., cycling, scooter, etc.) to have a meal. FFT will provide customers (end users) the ability to order the same food served in the company's cafeteria by way of the FFT app installed on their phone or by visiting the website foodfortech.com on their computer or mobile phone's web browser. FFT will permit end users to access the cafeteria menu, make food selections, and beverage selections, submit credit or debit card payments, and, lastly, the option of dining in or ordering for takeout.
